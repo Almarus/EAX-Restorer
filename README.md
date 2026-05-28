@@ -25,3 +25,10 @@ EAX Restorer — это бесплатное программное обеспе
 Программа создана с использованием сторонних открытых библиотек и компонентов:
 * **[DSOAL](https://github.com/kcat/dsoal)** — эмулятор DirectSound3D через OpenAL (автор *kcat*), восстанавливающий объёмный звук и эффекты EAX.
 * **[OpenAL Core SDK](https://openal.org/downloads/)** — программный интерфейс для работы с трёхмерным аудио.
+
+
+### Автор
+
+**Павел Прилуцкий**
+- [VK](https://vk.com/kerfaers)
+- [Telegram](https://t.me/Pavel_Priluckiy)
