@@ -27,8 +27,7 @@ EAX Restorer — это бесплатное программное обеспе
 * **[OpenAL Core SDK](https://openal.org/downloads/)** — программный интерфейс для работы с трёхмерным аудио.
 
 
-### Автор
+## Автор: Павел Прилуцкий
 
-**Павел Прилуцкий**
-- [VK](https://vk.com/kerfaers)
-- [Telegram](https://t.me/Pavel_Priluckiy)
+* ** [VK](https://vk.com/kerfaers)
+* ** [Telegram](https://t.me/Pavel_Priluckiy)
