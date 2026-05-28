@@ -29,5 +29,5 @@ EAX Restorer — это бесплатное программное обеспе
 
 ## Автор: Павел Прилуцкий
 
-* ** [VK](https://vk.com/kerfaers)
-* ** [Telegram](https://t.me/Pavel_Priluckiy)
+* [VK](https://vk.com/kerfaers)
+* [Telegram](https://t.me/Pavel_Priluckiy)
