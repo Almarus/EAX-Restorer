@@ -2,9 +2,10 @@
 EAX Restorer — это бесплатное программное обеспечение с открытым исходным кодом, которое удобно автоматизирует использование DSOAL и OpenAL для возвращения старым играм технологии EAX на Windows 10/11.
 
 <img width="737" height="503" alt="" src="https://github.com/user-attachments/assets/bc99fa93-cb96-4da9-9c34-c1d2bed837f4" />
-[Version](https://img.shields.io/badge/version-1.0-red)
-[Platform](https://img.shields.io/badge/platform-Windows-0078D4)
-[Python](https://img.shields.io/badge/python-3.8+-3776AB)
+
+![Version](https://img.shields.io/badge/version-1.0-red)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D4)
+![Python](https://img.shields.io/badge/python-3.8+-3776AB)
 
 ## Как это работает?
 
